@@ -15,7 +15,7 @@ partindo de uma solução funcional, porém frágil, para uma solução mais est
 
 Evolução do projeto
 Este projeto é a continuação direta da versão inicial:
- *(link para o projeto inicial)*
+ *([link para o projeto inicial](https://github.com/NINGUEM-exe/calculadora-tkinter-inicial))*
 
 A partir dela, foram aplicadas melhorias estruturais e conceituais.
 
